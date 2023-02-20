@@ -4,7 +4,9 @@ from abc import ABC , abstractmethod
 
 class AbstracClass(ABC):
     
-   #TEMPLATE METHOD DEFINES THE SLELETON OF AN ALGORITHM  
+   # 
+   #TEMPLATE METHOD DEFINES THE SKELETON OF AN ALGORITHM
+   #  
     def templateMethod(self)-> None:
         
         self.baseOperation()
@@ -17,13 +19,13 @@ class AbstracClass(ABC):
             
 
     def baseOperation(self) -> None:
-        print(" abstract class : executed BASE OPERATION 1 \n")  
+        print(" abstract class :  BASE OPERATION 1 \n")  
         
     def baseOperation2(self) -> None:
-        print(" abstract class : executed BASE OPERATION 2 \n")
+        print(" abstract class :  BASE OPERATION 2 \n")
         
     def baseOperation3(self) -> None:
-        print(" abstract class : executed BASE OPERATION 3 \n")          
+        print(" abstract class :  BASE OPERATION 3 \n")          
             
     #these operations have to be implemented in subclass
     @abstractmethod
