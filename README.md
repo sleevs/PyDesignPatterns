@@ -6,7 +6,7 @@
 
 ### Creational patterns
 
-  -  Factory - TODO
+  -  Factory Method
   
   -  Abstract factory  
   
