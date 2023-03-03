@@ -10,7 +10,7 @@
   
   -  Abstract factory  
   
-  -  Builder - TODO
+  -  Builder 
   
   -  Prototype - TODO
   
