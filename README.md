@@ -1,6 +1,6 @@
 # PyDesignPatterns
 
-## Demonstration of using Design Pattern with Python .
+## Demonstration of Design Pattern with Python
 
 
 
