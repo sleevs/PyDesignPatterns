@@ -12,9 +12,9 @@
   
   -  Builder 
   
-  -  Prototype - TODO
+  -  Prototype  
   
-  -  Singleton - TODO
+  -  Singleton 
 
 ### Structural patterns
 
