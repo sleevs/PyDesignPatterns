@@ -44,12 +44,12 @@
   
   -  Memento - TODO
   
-  -  Observer - 
+  -  [Observer](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/observer_.py) 
   
-  -  State - 
+  -  [State](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/state_pattern.py)  
   
-  -  Strategy - 
+  -  [Strategy](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/strategy_pattern.py) 
   
-  -  Template method - 
+  -  [Template method](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/template_method.py)
   
-  -  Visitor - 
+  -  [Visitor](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/visitor_pattern.py) 
