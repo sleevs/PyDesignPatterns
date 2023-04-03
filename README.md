@@ -6,15 +6,15 @@
 
 ### Creational patterns
 
-  -  [Factory Method]()
+  -  [Factory Method](https://github.com/sleevs/PyDesignPatterns/blob/master/creational/factory_method.py)
   
-  -  [Abstract factory]  
+  -  [Abstract factory](https://github.com/sleevs/PyDesignPatterns/blob/master/creational/abstract_factory_.py)  
+ 
+  -  [Builder](https://github.com/sleevs/PyDesignPatterns/blob/master/creational/builder.py) 
   
-  -  [Builder] 
+  -  [Prototype](https://github.com/sleevs/PyDesignPatterns/blob/master/creational/prototype.py)  
   
-  -  [Prototype]  
-  
-  -  [Singleton] 
+  -  [Singleton](https://github.com/sleevs/PyDesignPatterns/blob/master/creational/singleton.py) 
 
 ### Structural patterns
 
