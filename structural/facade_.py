@@ -1,4 +1,12 @@
 from __future__ import annotations
+from flask import Flask , request
+
+import requests
+
+
+app = Flask (__name__)
+
+
 
 
 class Facade:
@@ -49,9 +57,37 @@ def clientCode (facade: Facade) -> None :
 
     print(facade.operation() , end='')
 
-if __name__ == '__main__' :
 
+
+
+@app.route('/teste')
+def teste():
+        
     sub1 = Subsystem1()
     sub2 = Subsystem2()
     facade = Facade(sub1 , sub2)
-    clientCode(facade)
+    return "TESTE FACADE PATTERN \n"   + facade.operation()
+
+
+@app.route('/teste2')
+def getModels():
+    
+    #requests.get("http://127.0.0.1:3001/models")
+   # parsed = requests.json()
+   # print(parsed)
+    return  requests.get("http://127.0.0.1:3001/models").content
+      
+      
+  
+        
+if __name__ == '__main__' :
+
+    app.run(debug=True)
+
+
+sub1 = Subsystem1()
+sub2 = Subsystem2()
+facade = Facade(sub1 , sub2)
+clientCode(facade)
+
+   
