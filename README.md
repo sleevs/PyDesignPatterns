@@ -6,27 +6,27 @@
 
 ### Creational patterns
 
-  -  Factory Method
+  -  [Factory Method]()
   
-  -  Abstract factory  
+  -  [Abstract factory]  
   
-  -  Builder 
+  -  [Builder] 
   
-  -  Prototype  
+  -  [Prototype]  
   
-  -  Singleton 
+  -  [Singleton] 
 
 ### Structural patterns
 
   -  Adapter - TODO
   
-  -  Bridge - TODO
+  -  [Bridge](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/bridge.py)  
   
-  -  Composite - TODO
+  -  [Composite](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/composite.py)  
   
-  -  Decorator - TODO
+  -  [Decorator](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/decorator.py)
   
-  -  Facade - 
+  -  [Facade](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/facade_.py) 
   
   -  Flyweight - TODO
   
