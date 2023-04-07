@@ -6,27 +6,27 @@
 
 ### Creational patterns
 
-  -  Factory Method
+  -  [Factory Method](https://github.com/sleevs/PyDesignPatterns/blob/master/creational/factory_method.py)
   
-  -  Abstract factory  
+  -  [Abstract factory](https://github.com/sleevs/PyDesignPatterns/blob/master/creational/abstract_factory_.py)  
+ 
+  -  [Builder](https://github.com/sleevs/PyDesignPatterns/blob/master/creational/builder.py) 
   
-  -  Builder 
+  -  [Prototype](https://github.com/sleevs/PyDesignPatterns/blob/master/creational/prototype.py)  
   
-  -  Prototype  
-  
-  -  Singleton 
+  -  [Singleton](https://github.com/sleevs/PyDesignPatterns/blob/master/creational/singleton.py) 
 
 ### Structural patterns
 
   -  Adapter - TODO
   
-  -  Bridge - TODO
+  -  [Bridge](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/bridge.py)  
   
-  -  Composite - TODO
+  -  [Composite](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/composite.py)  
   
-  -  Decorator - TODO
+  -  [Decorator](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/decorator.py)
   
-  -  Facade - 
+  -  [Facade](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/facade_.py) 
   
   -  Flyweight - TODO
   
@@ -44,12 +44,12 @@
   
   -  Memento - TODO
   
-  -  Observer - 
+  -  [Observer](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/observer_.py) 
   
-  -  State - 
+  -  [State](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/state_pattern.py)  
   
-  -  Strategy - 
+  -  [Strategy](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/strategy_pattern.py) 
   
-  -  Template method - 
+  -  [Template method](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/template_method.py)
   
-  -  Visitor - 
+  -  [Visitor](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/visitor_pattern.py) 
