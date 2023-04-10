@@ -2,13 +2,14 @@ from __future__ import annotations
 from abc import ABC  , abstractmethod
 
 
+
+
 class Subject(ABC):
     
     @abstractmethod
     def request(self) -> None :
         pass
 
-    
     
 
 class RealSubject(Subject):
@@ -18,7 +19,6 @@ class RealSubject(Subject):
         
         print(" REALSUBJECT : HANDLER REQUEST")
        
-
 
 
 class Proxy(Subject):
