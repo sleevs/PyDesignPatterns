@@ -15,6 +15,7 @@ class RealSubject(Subject):
     
     
     def request(self) -> None:
+        
         print(" REALSUBJECT : HANDLER REQUEST")
        
 
