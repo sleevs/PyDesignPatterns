@@ -28,9 +28,9 @@
   
   -  [Facade](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/facade_.py) 
   
-  -  Flyweight - TODO
+  -  [Flyweight](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/flyweight.py)  
   
-  -  Proxy - TODO
+  -  [Proxy](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/proxy.py)
 
 ### Behavioral patterns
 
