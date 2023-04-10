@@ -18,7 +18,7 @@
 
 ### Structural patterns
 
-  -  Adapter - TODO
+  -  [Adapter](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/adapter.py)
   
   -  [Bridge](https://github.com/sleevs/PyDesignPatterns/blob/master/structural/bridge.py)  
   
