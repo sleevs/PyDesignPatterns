@@ -4,14 +4,6 @@ from flask import Flask
 import requests
 from rabbitmq_pika_flask import RabbitMQ
 
-# init app
-#app = Flask(__name__)
-
-# send message
-#@app.route('/teste', methods=['GET'])
-#def process():
-#    return "MUNIZ SOARES ENGENHARIA DE SOFTWARE"
-
 
 class Handler(ABC):
     
@@ -40,6 +32,7 @@ class AbstractHandler(Handler):
         if self._next:
             return self._next.handle(request)
         return None
+
 
 class CardPayment(AbstractHandler):
     
@@ -84,12 +77,9 @@ class DigitalPayment(AbstractHandler):
             return super().handle(request)
        
 
-
     
 if __name__ == '__main__':
-
-    print("MUNIZ SOARES ENGENHARIA DE SOFTWARE \n") 
-    
+ 
     transfer = TransferPayment()
     digital = DigitalPayment()
     cash =  CashPayment()
