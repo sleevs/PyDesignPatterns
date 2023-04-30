@@ -34,7 +34,7 @@
 
 ### Behavioral patterns
 
-  -  Chain of responsibility - TODO
+  -  [Chain of responsibility](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/chain_of_responsability.py)
   
   -  Command - TODO
   
