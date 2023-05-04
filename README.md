@@ -36,7 +36,7 @@
 
   -  [Chain of responsibility](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/chain_of_responsability.py)
   
-  -  Command - TODO
+  -  [Command](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/command_pattern.py)
   
   -  Iterator - TODO
   
