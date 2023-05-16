@@ -38,7 +38,7 @@
   
   -  [Command](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/command_pattern.py)
   
-  -  Iterator - TODO
+  -  [Iterator](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/iterator.py)
   
   -  Mediator - TODO
   
