@@ -2,7 +2,7 @@
 
 ## Demonstration of Design Pattern with Python
 
-<h3 align="center">A passionate software enginner from Brazil</h3>
+<h3 align="center">A passionate software engineer from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
