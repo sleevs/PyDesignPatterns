@@ -40,7 +40,7 @@
   
   -  [Iterator](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/iterator.py)
   
-  -  Mediator - TODO
+  -  [Mediator](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/mediator.py)
   
   -  Memento - TODO
   
