@@ -1,16 +1,8 @@
 # PyDesignPatterns
 
 ## Demonstration of Design Pattern with Python
-# FreedomCore
 
-<h1 align="center">Hi 👋, I'm Jeison Muniz</h1>
 <h3 align="center">A passionate software enginner from Brazil</h3>
-
-- 🌱 I’m currently learning **Pentest**
-
-- 💬 Ask me about **Android , Backend**
-
-- 📫 How to reach me **jsn_13_13@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
