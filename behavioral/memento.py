@@ -55,13 +55,8 @@ class Caretaker:
     
 if __name__ == '__main__':
     
-    print("MOMENT")
-    
-    
     originator = Originator()
-    
     caretaker = Caretaker()
-    
     
     originator.setState("STATE 1")
     caretaker.addMemento(originator.create())
@@ -71,7 +66,6 @@ if __name__ == '__main__':
     
     originator.setState("STATE 3")
     caretaker.addMemento(originator.create())
-    
     
     originator.restore(caretaker.getMemento(2))
   
