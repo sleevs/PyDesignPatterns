@@ -1,6 +1,9 @@
-# PyDesignPatterns
 
-## Demonstration of Design Pattern with Python
+## Design Pattern in Python
+
+This a demostration of common design patterns implemented in python.
+They are useful problem-solving documentation for software design and used 
+repeatedly to help solve common problems. 
 
 
 ### Creational patterns
