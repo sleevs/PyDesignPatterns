@@ -36,6 +36,8 @@ repeatedly to help solve common problems.
 
 ### Behavioral patterns
 
+  -  [Interpreter - TODO]()
+    
   -  [Chain of responsibility](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/chain_of_responsability.py)
   
   -  [Command](https://github.com/sleevs/PyDesignPatterns/blob/master/behavioral/command_pattern.py)
